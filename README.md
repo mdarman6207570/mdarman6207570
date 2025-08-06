@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me
 - 💼 Aspiring **Java Full Stack Developer** (Fresher)
 - 📍 Based in **Hyderabad**, India
-- 🌱 Currently learning , **HTNL5**, **CSS3**, **JavaScript**, **React** **Core Java**,  **Advance Java**,  **Spring**, **Spring Boot**, and **Oracle**.
+- 🌱 Currently learning , **HTML5**, **CSS3**, **JavaScript**, **React** **Core Java**,  **Advance Java**,  **Spring**, **Spring Boot**, and **Oracle**.
 - 💡 Building real-world full-stack projects using **Full Stack Java**
 - 🎯 Goal: Contribute to open-source and land a software job at a top company
 
