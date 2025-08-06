@@ -8,8 +8,8 @@
 ### 👨‍💻 About Me
 - 💼 Aspiring **Java Full Stack Developer** (Fresher)
 - 📍 Based in **Hyderabad**, India
-- 🌱 Currently learning **Spring Boot**, **React**, and **System Design**
-- 💡 Building real-world full-stack projects using **Java + React**
+- 🌱 Currently learning , **HTNL5**, **CSS3**, **JavaScript**, **React** **Core Java**,  **Advance Java**,  **Spring**, **Spring Boot**, and **Oracle**.
+- 💡 Building real-world full-stack projects using **Full Stack Java**
 - 🎯 Goal: Contribute to open-source and land a software job at a top company
 
 ---
@@ -24,12 +24,10 @@
 
 #### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-6c3483?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### 🧠 Backend & DB
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4db33d?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
