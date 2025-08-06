@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Md Arman!
+🚀 Aspiring Java Full Stack Developer | Fresher  
+📍 Based in Hyderabad | Passionate about building web apps
 
-<!--
-**mdarman6207570/mdarman6207570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech Stack
+- Java, Spring Boot, Hibernate
+- HTML, CSS, JavaScript, React.js
+- MySQL, MongoDB
 
-Here are some ideas to get you started:
+## 📘 Projects
+🔹 [Amazon Clone](https://github.com/mdarman6207570/Amazon-Clone)  
+🔹 [Portfolio Website](https://github.com/mdarman6207570/portfolio-project)  
+🔹 [Tic Tac Toe Game](https://github.com/mdarman6207570/Tic-Tac-Toe-Game)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdarman123/)
+- 💻 [GitHub](https://github.com/mdarman6207570)
