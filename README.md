@@ -11,6 +11,7 @@
 - JDBC
 - JPA / Hibernate
 - Spring Boot
+- Spring Boot MVC
 - REST API Development
 - MySQL & Oracle SQL
 
